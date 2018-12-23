@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+### command
+
+- new model: `rails generate scaffold User name:string email:string`
+- db migrate: `rails db:migrate`
